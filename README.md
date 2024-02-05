@@ -1,9 +1,5 @@
 ### Hi there 👋
--My name is Preston
--I am in Digital game design
--My favorite color is red
--My favorite sport is soccer
--I also love anything sports related
+My name is Preston and I am in Digital game design. My favorite color is red and My favorite sport is soccer. I am a very active person and I love aything sports related.
 <!--
 **Preston2026/Preston2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
